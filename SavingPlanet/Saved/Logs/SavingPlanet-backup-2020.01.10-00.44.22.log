@@ -1,0 +1,1712 @@
+﻿Log file open, 01/09/20 15:48:08
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SavingPlanet
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.398277
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.100s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.09-23.48.08:638][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.09-23.48.08:638][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.09-23.48.08:638][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/Config/Windows/Engine.ini]
+[2020.01.09-23.48.08:638][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.09-23.48.08:638][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.01.09-23.48.08:638][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.01.09-23.48.08:638][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.01.09-23.48.08:638][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.01.09-23.48.08:638][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.01.09-23.48.08:638][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.01.09-23.48.08:638][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.01.09-23.48.08:638][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.01.09-23.48.08:638][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.01.09-23.48.08:638][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.01.09-23.48.08:638][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.01.09-23.48.08:638][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.01.09-23.48.08:638][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.01.09-23.48.08:638][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.01.09-23.48.08:638][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.01.09-23.48.08:638][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.01.09-23.48.08:638][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[vr.MonoscopicFarField:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.01.09-23.48.08:639][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/Config/Windows/Engine.ini]
+[2020.01.09-23.48.08:640][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/Config/Windows/Engine.ini]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/Config/Windows/Engine.ini]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.09-23.48.08:640][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/Config/Windows/Engine.ini]
+[2020.01.09-23.48.08:640][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/Config/Windows/Engine.ini]
+[2020.01.09-23.48.08:645][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/Config/Windows/Scalability.ini]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/Config/Windows/Scalability.ini]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/Config/Windows/Scalability.ini]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/Config/Windows/Scalability.ini]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.09-23.48.08:645][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/Config/Windows/Scalability.ini]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/Config/Windows/Scalability.ini]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/Config/Windows/Scalability.ini]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.09-23.48.08:646][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.09-23.48.08:646][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.09-23.48.08:646][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.09-23.48.08:659][  0]LogHAL: Display: Platform has ~ 16 GB [16981430272 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.09-23.48.08:659][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.01.09-23.48.08:659][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.09-23.48.08:659][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/Config/Windows/Scalability.ini]
+[2020.01.09-23.48.08:659][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.09-23.48.08:659][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.09-23.48.08:659][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/Config/Windows/Scalability.ini]
+[2020.01.09-23.48.08:659][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.09-23.48.08:659][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/Config/Windows/Scalability.ini]
+[2020.01.09-23.48.08:659][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.09-23.48.08:659][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.09-23.48.08:659][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.09-23.48.08:659][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.09-23.48.08:659][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.09-23.48.08:659][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.09-23.48.08:659][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/Config/Windows/Scalability.ini]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.09-23.48.08:660][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.09-23.48.08:661][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.09-23.48.08:661][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.09-23.48.08:661][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/Config/Windows/Scalability.ini]
+[2020.01.09-23.48.08:661][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.09-23.48.08:661][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.09-23.48.08:661][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.09-23.48.08:661][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.09-23.48.08:661][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.09-23.48.08:661][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.09-23.48.08:661][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.09-23.48.08:661][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.09-23.48.08:661][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/Config/Windows/Scalability.ini]
+[2020.01.09-23.48.08:661][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.09-23.48.08:661][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.09-23.48.08:661][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.09-23.48.08:661][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.09-23.48.08:661][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.09-23.48.08:661][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.09-23.48.08:661][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.09-23.48.08:661][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.09-23.48.08:661][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.09-23.48.08:661][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.09-23.48.08:661][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.09-23.48.08:661][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.09-23.48.08:661][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.09-23.48.08:661][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/Config/Windows/Scalability.ini]
+[2020.01.09-23.48.08:661][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.09-23.48.08:661][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.09-23.48.08:661][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.09-23.48.08:661][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.09-23.48.08:661][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/Config/Windows/Engine.ini]
+[2020.01.09-23.48.08:662][  0]LogInit: Computer: DESKTOP-F3SMPMM
+[2020.01.09-23.48.08:662][  0]LogInit: User: jsaem
+[2020.01.09-23.48.08:662][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.01.09-23.48.08:662][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.09-23.48.08:662][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.01.09-23.48.08:662][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.09-23.48.08:662][  0]LogMemory: Process Physical Memory: 104.77 MB used, 104.78 MB peak
+[2020.01.09-23.48.08:662][  0]LogMemory: Process Virtual Memory: 94.41 MB used, 94.41 MB peak
+[2020.01.09-23.48.08:662][  0]LogMemory: Physical Memory: 6760.71 MB used,  9434.05 MB free, 16194.75 MB total
+[2020.01.09-23.48.08:662][  0]LogMemory: Virtual Memory: 4670.29 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2020.01.09-23.48.08:683][  0]LogInit: Using OS detected language (en-US).
+[2020.01.09-23.48.08:683][  0]LogInit: Using OS detected locale (en-CA).
+[2020.01.09-23.48.08:684][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.01.09-23.48.09:021][  0]LogStreaming: Display: Took  0.338s to InitEngineTextLocalization.
+[2020.01.09-23.48.09:021][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.09-23.48.09:066][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.09-23.48.09:066][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.09-23.48.09:268][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.09-23.48.09:268][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.09-23.48.09:329][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2020.01.09-23.48.09:329][  0]LogD3D11RHI:       6052/0/8097 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.01.09-23.48.09:345][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.01.09-23.48.09:345][  0]LogD3D11RHI:       128/0/8097 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.01.09-23.48.09:347][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.09-23.48.09:347][  0]LogD3D11RHI:       0/0/8097 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.09-23.48.09:347][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.09-23.48.09:354][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.09-23.48.09:354][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.09-23.48.09:354][  0]LogWindows: EnumDisplayDevices:
+[2020.01.09-23.48.09:354][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2020.01.09-23.48.09:355][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2020.01.09-23.48.09:355][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.01.09-23.48.09:355][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.01.09-23.48.09:355][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.01.09-23.48.09:356][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.01.09-23.48.09:356][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.01.09-23.48.09:356][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.01.09-23.48.09:356][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2020.01.09-23.48.09:356][  0]LogD3D11RHI:   Driver Version: 441.12 (internal:26.21.14.4112, unified:441.12)
+[2020.01.09-23.48.09:356][  0]LogD3D11RHI:      Driver Date: 10-24-2019
+[2020.01.09-23.48.09:356][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.01.09-23.48.09:393][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.09-23.48.09:414][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.01.09-23.48.09:759][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.01.09-23.48.09:770][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.01.09-23.48.09:786][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.01.09-23.48.09:799][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.01.09-23.48.09:812][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.01.09-23.48.09:822][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.01.09-23.48.09:833][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.01.09-23.48.09:847][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.01.09-23.48.09:855][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.01.09-23.48.09:928][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.48.09:928][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.48.09:928][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.48.09:929][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.48.09:929][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.48.09:929][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.48.09:929][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.48.09:929][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.48.09:929][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.48.09:929][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.48.09:929][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.48.09:929][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.48.09:929][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.48.09:929][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.48.09:929][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.48.09:929][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.48.09:929][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.48.09:929][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.09-23.48.09:930][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.01.09-23.48.09:987][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.01.09-23.48.09:987][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.01.09-23.48.10:008][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.01.09-23.48.10:008][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.01.09-23.48.10:020][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.01.09-23.48.10:032][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.01.09-23.48.10:043][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.01.09-23.48.10:056][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.01.09-23.48.10:095][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.01.09-23.48.10:095][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.01.09-23.48.10:095][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.09-23.48.10:138][  0]LogShaderCompilers: Guid format shader working directory is -47 characters bigger than the processId version (../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Intermediate/Shaders/WorkingDirectory/3460/).
+[2020.01.09-23.48.10:138][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jsaem/AppData/Local/Temp/UnrealShaderWorkingDir/EAD67D1F445A30D723AE86B629B04E85/'.
+[2020.01.09-23.48.10:140][  0]LogXGEController: Cleaning working directory: C:/Users/jsaem/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.01.09-23.48.10:140][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.09-23.48.10:140][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.09-23.48.10:140][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.09-23.48.10:573][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.09-23.48.10:618][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/jsaem/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.01.09-23.48.10:618][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jsaem/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.01.09-23.48.10:618][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.09-23.48.10:618][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.09-23.48.10:618][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.09-23.48.10:618][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.09-23.48.10:630][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.09-23.48.10:630][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.09-23.48.10:630][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.09-23.48.10:642][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jsaem/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.09-23.48.10:642][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.09-23.48.10:642][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.09-23.48.10:661][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.09-23.48.10:662][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.09-23.48.10:663][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.09-23.48.10:734][  0]LogAssetRegistry: FAssetRegistry took 0.0314 seconds to start up
+[2020.01.09-23.48.11:007][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.09-23.48.11:131][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.01.09-23.48.11:134][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.01.09-23.48.11:134][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.09-23.48.11:134][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.09-23.48.11:134][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.01.09-23.48.11:148][  0]LogNetVersion: SavingPlanet 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3531598119)
+[2020.01.09-23.48.11:587][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.085254 seconds
+[2020.01.09-23.48.11:592][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.01.09-23.48.11:592][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2020.01.09-23.48.11:592][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.09-23.48.12:276][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.09-23.48.12:289][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.09-23.48.12:840][  0]SourceControl: Source control is disabled
+[2020.01.09-23.48.12:840][  0]SourceControl: Source control is disabled
+[2020.01.09-23.48.12:841][  0]SourceControl: Source control is disabled
+[2020.01.09-23.48.12:842][  0]SourceControl: Source control is disabled
+[2020.01.09-23.48.12:982][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.09-23.48.13:123][  0]LogOcInput: OculusInput pre-init called
+[2020.01.09-23.48.13:247][  0]LogEngine: Initializing Engine...
+[2020.01.09-23.48.13:248][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.09-23.48.13:249][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.01.09-23.48.13:249][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.01.09-23.48.13:249][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.01.09-23.48.13:249][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.01.09-23.48.13:441][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.09-23.48.13:452][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.09-23.48.13:491][  0]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.09-23.48.13:507][  0]LogInit: FAudioDevice initialized.
+[2020.01.09-23.48.13:507][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.09-23.48.13:634][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/jsaem/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.01.09-23.48.13:643][  0]LogInit: Texture streaming: Enabled
+[2020.01.09-23.48.13:657][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.09-23.48.13:669][  0]LogInit: Transaction tracking system initialized
+[2020.01.09-23.48.13:686][  0]BlueprintLog: New page: Editor Load
+[2020.01.09-23.48.13:746][  0]LocalizationService: Localization service is disabled
+[2020.01.09-23.48.14:138][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.09-23.48.14:138][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.09-23.48.14:138][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.01.09-23.48.14:138][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.01.09-23.48.14:138][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.01.09-23.48.14:138][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.01.09-23.48.14:138][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.01.09-23.48.14:236][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Content/' took 0.03s
+[2020.01.09-23.48.14:236][  0]SourceControl: Source control is disabled
+[2020.01.09-23.48.14:236][  0]Cmd: MAP LOAD FILE="../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Content/ThirdPersonBP/Maps/Level01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.09-23.48.14:237][  0]LightingResults: New page: Lighting Build
+[2020.01.09-23.48.14:239][  0]MapCheck: New page: Map Check
+[2020.01.09-23.48.14:239][  0]LightingResults: New page: Lighting Build
+[2020.01.09-23.48.15:220][  0]LogAIModule: Creating AISystem for world Level01
+[2020.01.09-23.48.15:232][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.09-23.48.15:261][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.09-23.48.15:262][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
+[2020.01.09-23.48.15:262][  0]LogFileHelpers: Loading map 'Level01' took 1.025
+[2020.01.09-23.48.15:365][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-23.48.15:372][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-23.48.15:379][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-23.48.15:386][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-23.48.15:394][  0]LogCollectionManager: Loaded 0 collections in 0.002542 seconds
+[2020.01.09-23.48.15:410][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/Collections/' took 0.01s
+[2020.01.09-23.48.15:410][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Content/Developers/jsaem/Collections/' took 0.00s
+[2020.01.09-23.48.15:411][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Content/Collections/' took 0.00s
+[2020.01.09-23.48.15:411][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.01.09-23.48.15:419][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2651 classes and 620 folders.
+[2020.01.09-23.48.15:430][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.09-23.48.15:431][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.48.15:432][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.48.15:432][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.48.15:432][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.48.15:433][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.48.15:433][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.48.15:433][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.48.15:434][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.48.15:434][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.48.15:434][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.48.15:435][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.48.15:435][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.48.15:436][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.48.15:436][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.48.15:437][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.48.15:437][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.48.15:438][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.48.15:438][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.48.15:439][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.48.15:439][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.48.15:440][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.48.15:440][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.48.15:441][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.48.15:441][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.48.15:442][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.48.15:443][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.01.09-23.48.15:476][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.09-23.48.15:482][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.01.09-23.48.15:547][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.09-23.48.15:550][  0]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.09-23.48.15:555][  0]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.09-23.48.15:635][  0]LogRenderer: Reallocating scene render targets to support 1328x636 Format 10 NumSamples 1 (Frame:1).
+[2020.01.09-23.48.15:750][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.09-23.48.15:751][  0]LogLoad: (Engine Initialization) Total time: 8.88 seconds
+[2020.01.09-23.48.15:751][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.09-23.48.15:814][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.09-23.48.15:836][  0]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.09-23.48.16:147][  5]LogAssetRegistry: Asset discovery search completed in 5.4358 seconds
+[2020.01.09-23.48.16:149][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.01.09-23.48.16:149][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2020.01.09-23.53.48:592][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-23.53.48:692][284]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.09-23.53.48:718][284]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.09-23.53.48:719][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.09-23.53.48:755][284]PIE: New page: PIE session: Level01 (Jan 9, 2020, 7:53:48 AM)
+[2020.01.09-23.53.48:782][284]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01
+[2020.01.09-23.53.48:805][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022441s)
+[2020.01.09-23.53.48:806][284]LogAIModule: Creating AISystem for world Level01
+[2020.01.09-23.53.48:806][284]LogPlayLevel: PIE: World Init took: (0.001120s)
+[2020.01.09-23.53.48:806][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level01.Level01 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01.Level01 (0.023860s)
+[2020.01.09-23.53.48:875][284]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.09-23.53.48:885][284]LogInit: FAudioDevice initialized.
+[2020.01.09-23.53.48:944][284]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.09-23.53.48:958][284]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2020.01.09-15.53.48
+[2020.01.09-23.53.48:969][284]LogWorld: Bringing up level for play took: 0.012010
+[2020.01.09-23.53.49:041][284]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.01.09-23.53.49:122][284]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01 0.19
+[2020.01.09-23.53.49:122][284]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.09-23.53.53:094][742]LogBlueprintUserMessages: [Enemy1_C_0] You have damaged me good sir
+[2020.01.09-23.53.54:041][848]LogBlueprintUserMessages: [Enemy2_C_1] You have damaged me good sir
+[2020.01.09-23.53.54:308][880]LogBlueprintUserMessages: [Enemy1_C_2] You have damaged me good sir
+[2020.01.09-23.53.55:017][965]LogBlueprintUserMessages: [Enemy2_C_3] You have damaged me good sir
+[2020.01.09-23.53.55:776][ 54]LogBlueprintUserMessages: [Enemy2_C_0] You have damaged me good sir
+[2020.01.09-23.53.57:451][255]LogBlueprintUserMessages: [Enemy2_C_2] You have damaged me good sir
+[2020.01.09-23.53.58:560][388]LogBlueprintUserMessages: [Enemy1_C_4] You have damaged me good sir
+[2020.01.09-23.53.59:942][554]LogBlueprintUserMessages: [Enemy1_C_5] You have damaged me good sir
+[2020.01.09-23.54.00:434][613]LogBlueprintUserMessages: [Enemy1_C_3] You have damaged me good sir
+[2020.01.09-23.54.02:302][837]LogBlueprintUserMessages: [Enemy2_C_5] You have damaged me good sir
+[2020.01.09-23.54.03:918][ 31]LogBlueprintUserMessages: [Enemy1_C_6] You have damaged me good sir
+[2020.01.09-23.54.04:460][ 96]LogBlueprintUserMessages: [Enemy2_C_6] You have damaged me good sir
+[2020.01.09-23.54.04:502][101]LogBlueprintUserMessages: [Enemy2_C_4] You have damaged me good sir
+[2020.01.09-23.54.06:235][309]LogBlueprintUserMessages: [Enemy2_C_7] You have damaged me good sir
+[2020.01.09-23.54.07:351][443]LogBlueprintUserMessages: [Enemy1_C_8] You have damaged me good sir
+[2020.01.09-23.54.07:477][458]LogBlueprintUserMessages: [Enemy1_C_7] You have damaged me good sir
+[2020.01.09-23.54.08:494][580]LogBlueprintUserMessages: [Enemy2_C_9] You have damaged me good sir
+[2020.01.09-23.54.09:178][662]LogBlueprintUserMessages: [Enemy1_C_9] You have damaged me good sir
+[2020.01.09-23.54.09:986][759]LogBlueprintUserMessages: [Enemy2_C_8] You have damaged me good sir
+[2020.01.09-23.54.10:944][874]LogBlueprintUserMessages: [Enemy2_C_10] You have damaged me good sir
+[2020.01.09-23.54.11:619][955]LogBlueprintUserMessages: [Enemy1_C_10] You have damaged me good sir
+[2020.01.09-23.54.13:861][224]LogBlueprintUserMessages: [Enemy1_C_11] You have damaged me good sir
+[2020.01.09-23.54.16:544][546]LogBlueprintUserMessages: [Enemy2_C_12] You have damaged me good sir
+[2020.01.09-23.54.17:279][634]LogBlueprintUserMessages: [Enemy2_C_11] You have damaged me good sir
+[2020.01.09-23.54.19:271][873]LogBlueprintUserMessages: [Enemy1_C_12] You have damaged me good sir
+[2020.01.09-23.54.19:787][935]LogBlueprintUserMessages: [Enemy1_C_14] You have damaged me good sir
+[2020.01.09-23.54.22:779][294]LogBlueprintUserMessages: [Enemy1_C_15] You have damaged me good sir
+[2020.01.09-23.54.23:989][439]LogBlueprintUserMessages: [Enemy2_C_15] You have damaged me good sir
+[2020.01.09-23.54.24:956][555]LogBlueprintUserMessages: [Enemy2_C_13] You have damaged me good sir
+[2020.01.09-23.54.26:282][714]LogBlueprintUserMessages: [Enemy2_C_14] You have damaged me good sir
+[2020.01.09-23.54.27:390][847]LogBlueprintUserMessages: [Enemy2_C_16] You have damaged me good sir
+[2020.01.09-23.54.27:398][848]LogBlueprintUserMessages: [Enemy1_C_18] You have damaged me good sir
+[2020.01.09-23.54.28:607][993]LogBlueprintUserMessages: [Enemy1_C_17] You have damaged me good sir
+[2020.01.09-23.54.29:849][142]LogBlueprintUserMessages: [Enemy1_C_16] You have damaged me good sir
+[2020.01.09-23.54.31:384][326]LogBlueprintUserMessages: [Enemy2_C_17] You have damaged me good sir
+[2020.01.09-23.54.33:233][548]LogBlueprintUserMessages: [Enemy1_C_19] You have damaged me good sir
+[2020.01.09-23.54.33:532][584]LogBlueprintUserMessages: [Enemy2_C_19] You have damaged me good sir
+[2020.01.09-23.54.34:385][685]LogCharacterMovement: Enemy2_C_18 is stuck and failed to move! Velocity: X=288.76 Y=-525.95 Z=0.00 Location: X=783.58 Y=447.91 Z=107.71 Normal: X=-0.16 Y=0.63 Z=-0.76 PenetrationDepth:0.000 Actor:Enemy3_C_0 Component:Ship BoneName:None (0 other events since notify)
+[2020.01.09-23.54.34:425][690]LogBlueprintUserMessages: [Enemy2_C_18] You have damaged me good sir
+[2020.01.09-23.54.37:284][ 33]LogBlueprintUserMessages: [Enemy2_C_20] You have damaged me good sir
+[2020.01.09-23.54.39:033][243]LogBlueprintUserMessages: [Enemy1_C_20] You have damaged me good sir
+[2020.01.09-23.54.39:226][266]LogBlueprintUserMessages: [Enemy2_C_21] You have damaged me good sir
+[2020.01.09-23.54.40:109][372]LogBlueprintUserMessages: [Enemy1_C_24] You have damaged me good sir
+[2020.01.09-23.54.40:635][435]LogBlueprintUserMessages: [Enemy3_C_1] You have damaged me good sir
+[2020.01.09-23.54.42:236][627]LogBlueprintUserMessages: [Enemy1_C_25] You have damaged me good sir
+[2020.01.09-23.54.43:102][731]LogBlueprintUserMessages: [Enemy1_C_23] You have damaged me good sir
+[2020.01.09-23.54.43:126][734]LogBlueprintUserMessages: [Enemy3_C_0] You have damaged me good sir
+[2020.01.09-23.54.43:261][750]LogBlueprintUserMessages: [Enemy1_C_21] You have damaged me good sir
+[2020.01.09-23.54.43:261][750]LogBlueprintUserMessages: [Enemy1_C_22] You have damaged me good sir
+[2020.01.09-23.54.43:977][836]LogBlueprintUserMessages: [Enemy2_C_24] You have damaged me good sir
+[2020.01.09-23.54.44:576][908]LogBlueprintUserMessages: [Enemy2_C_22] You have damaged me good sir
+[2020.01.09-23.54.45:111][972]LogBlueprintUserMessages: [Enemy1_C_26] You have damaged me good sir
+[2020.01.09-23.54.46:952][193]LogBlueprintUserMessages: [Enemy2_C_23] You have damaged me good sir
+[2020.01.09-23.54.49:003][439]LogBlueprintUserMessages: [Enemy1_C_28] You have damaged me good sir
+[2020.01.09-23.54.49:822][535]LogBlueprintUserMessages: [Enemy1_C_29] You have damaged me good sir
+[2020.01.09-23.54.50:373][601]LogBlueprintUserMessages: [Enemy2_C_25] You have damaged me good sir
+[2020.01.09-23.54.50:589][627]LogBlueprintUserMessages: [Enemy2_C_27] You have damaged me good sir
+[2020.01.09-23.54.50:790][651]LogBlueprintUserMessages: [Enemy3_C_2] You have damaged me good sir
+[2020.01.09-23.54.52:623][871]LogBlueprintUserMessages: [Enemy2_C_26] You have damaged me good sir
+[2020.01.09-23.54.57:048][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-23.54.57:095][406]LogNet: Browse: /Game/ThirdPersonBP/Maps/MainMenu
+[2020.01.09-23.54.57:096][406]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/MainMenu
+[2020.01.09-23.54.57:176][406]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.09-23.54.57:176][406]LogLoad: Game class is 'MainMenuGamemode_C'
+[2020.01.09-23.54.57:178][406]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.01.09-15.54.57
+[2020.01.09-23.54.57:178][406]LogWorld: Bringing up level for play took: 0.000621
+[2020.01.09-23.54.57:179][406]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.09-23.54.57:180][406]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.54.57:180][406]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.54.57:180][406]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.54.57:181][406]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.54.57:181][406]LogLoad: Took 0.084849 seconds to LoadMap(/Game/ThirdPersonBP/Maps/MainMenu)
+[2020.01.09-23.54.57:992][503]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2020.01.09-23.54.57:993][503]LogGameState: Match State Changed from InProgress to LeavingMap
+[2020.01.09-23.54.57:993][503]LogNet: Browse: /Game/ThirdPersonBP/Maps/LevelSelect
+[2020.01.09-23.54.57:993][503]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/LevelSelect
+[2020.01.09-23.54.58:040][503]LogAIModule: Creating AISystem for world LevelSelect
+[2020.01.09-23.54.58:040][503]LogLoad: Game class is 'MainMenuGamemode_C'
+[2020.01.09-23.54.58:041][503]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_LevelSelect.LevelSelect up for play (max tick rate 0) at 2020.01.09-15.54.58
+[2020.01.09-23.54.58:041][503]LogWorld: Bringing up level for play took: 0.000548
+[2020.01.09-23.54.58:042][503]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.09-23.54.58:042][503]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.54.58:042][503]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.54.58:042][503]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.54.58:043][503]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.54.58:043][503]LogLoad: Took 0.050477 seconds to LoadMap(/Game/ThirdPersonBP/Maps/LevelSelect)
+[2020.01.09-23.54.59:806][714]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2020.01.09-23.54.59:806][714]LogGameState: Match State Changed from InProgress to LeavingMap
+[2020.01.09-23.54.59:806][714]LogNet: Browse: /Game/ThirdPersonBP/Maps/MainMenu
+[2020.01.09-23.54.59:806][714]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/MainMenu
+[2020.01.09-23.54.59:832][714]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.09-23.54.59:833][714]LogLoad: Game class is 'MainMenuGamemode_C'
+[2020.01.09-23.54.59:834][714]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.01.09-15.54.59
+[2020.01.09-23.54.59:834][714]LogWorld: Bringing up level for play took: 0.000351
+[2020.01.09-23.54.59:834][714]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.09-23.54.59:834][714]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.54.59:834][714]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.54.59:834][714]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.54.59:835][714]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.54.59:835][714]LogLoad: Took 0.029169 seconds to LoadMap(/Game/ThirdPersonBP/Maps/MainMenu)
+[2020.01.09-23.55.00:560][801]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2020.01.09-23.55.00:560][801]LogGameState: Match State Changed from InProgress to LeavingMap
+[2020.01.09-23.55.00:560][801]LogNet: Browse: /Game/ThirdPersonBP/Maps/OptionsMenu
+[2020.01.09-23.55.00:560][801]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/OptionsMenu
+[2020.01.09-23.55.00:629][801]LogAIModule: Creating AISystem for world OptionsMenu
+[2020.01.09-23.55.00:630][801]LogLoad: Game class is 'MainMenuGamemode_C'
+[2020.01.09-23.55.00:631][801]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_OptionsMenu.OptionsMenu up for play (max tick rate 0) at 2020.01.09-15.55.00
+[2020.01.09-23.55.00:631][801]LogWorld: Bringing up level for play took: 0.000376
+[2020.01.09-23.55.00:631][801]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.09-23.55.00:631][801]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.55.00:631][801]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.55.00:631][801]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.55.00:632][801]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.55.00:632][801]LogLoad: Took 0.072124 seconds to LoadMap(/Game/ThirdPersonBP/Maps/OptionsMenu)
+[2020.01.09-23.55.05:017][131]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2020.01.09-23.55.05:017][131]LogGameState: Match State Changed from InProgress to LeavingMap
+[2020.01.09-23.55.05:017][131]LogNet: Browse: /Game/ThirdPersonBP/Maps/MainMenu
+[2020.01.09-23.55.05:017][131]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/MainMenu
+[2020.01.09-23.55.05:048][131]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.09-23.55.05:048][131]LogLoad: Game class is 'MainMenuGamemode_C'
+[2020.01.09-23.55.05:049][131]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.01.09-15.55.05
+[2020.01.09-23.55.05:050][131]LogWorld: Bringing up level for play took: 0.000434
+[2020.01.09-23.55.05:050][131]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.09-23.55.05:050][131]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.55.05:050][131]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.55.05:050][131]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.55.05:051][131]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.55.05:051][131]LogLoad: Took 0.033777 seconds to LoadMap(/Game/ThirdPersonBP/Maps/MainMenu)
+[2020.01.09-23.55.05:661][204]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2020.01.09-23.55.05:661][204]LogGameState: Match State Changed from InProgress to LeavingMap
+[2020.01.09-23.55.05:661][204]LogNet: Browse: /Game/ThirdPersonBP/Maps/LevelSelect
+[2020.01.09-23.55.05:661][204]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/LevelSelect
+[2020.01.09-23.55.05:689][204]LogAIModule: Creating AISystem for world LevelSelect
+[2020.01.09-23.55.05:689][204]LogLoad: Game class is 'MainMenuGamemode_C'
+[2020.01.09-23.55.05:690][204]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_LevelSelect.LevelSelect up for play (max tick rate 0) at 2020.01.09-15.55.05
+[2020.01.09-23.55.05:691][204]LogWorld: Bringing up level for play took: 0.000524
+[2020.01.09-23.55.05:691][204]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.09-23.55.05:691][204]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.55.05:691][204]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.55.05:691][204]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.55.05:693][204]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.55.05:693][204]LogLoad: Took 0.031167 seconds to LoadMap(/Game/ThirdPersonBP/Maps/LevelSelect)
+[2020.01.09-23.55.06:867][345]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2020.01.09-23.55.06:867][345]LogGameState: Match State Changed from InProgress to LeavingMap
+[2020.01.09-23.55.06:868][345]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level02
+[2020.01.09-23.55.06:868][345]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level02
+[2020.01.09-23.55.08:236][345]LogAIModule: Creating AISystem for world Level02
+[2020.01.09-23.55.08:236][345]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.09-23.55.08:241][345]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level02.Level02 up for play (max tick rate 0) at 2020.01.09-15.55.08
+[2020.01.09-23.55.08:241][345]LogWorld: Bringing up level for play took: 0.004181
+[2020.01.09-23.55.08:242][345]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.09-23.55.08:246][345]LogLoad: Took 1.377367 seconds to LoadMap(/Game/ThirdPersonBP/Maps/Level02)
+[2020.01.09-23.55.11:889][776]LogBlueprintUserMessages: [Enemy2_C_0] You have damaged me good sir
+[2020.01.09-23.55.13:674][990]LogBlueprintUserMessages: [Enemy1_C_0] You have damaged me good sir
+[2020.01.09-23.55.14:656][108]LogBlueprintUserMessages: [Enemy1_C_1] You have damaged me good sir
+[2020.01.09-23.55.14:823][128]LogBlueprintUserMessages: [Enemy2_C_2] You have damaged me good sir
+[2020.01.09-23.55.15:374][194]LogBlueprintUserMessages: [Enemy1_C_5] You have damaged me good sir
+[2020.01.09-23.55.15:615][223]LogBlueprintUserMessages: [Enemy2_C_1] You have damaged me good sir
+[2020.01.09-23.55.15:665][229]LogBlueprintUserMessages: [Enemy1_C_2] You have damaged me good sir
+[2020.01.09-23.55.15:757][240]LogBlueprintUserMessages: [Enemy2_C_3] You have damaged me good sir
+[2020.01.09-23.55.16:791][364]LogBlueprintUserMessages: [Enemy1_C_4] You have damaged me good sir
+[2020.01.09-23.55.18:333][549]LogBlueprintUserMessages: [Enemy1_C_3] You have damaged me good sir
+[2020.01.09-23.55.19:392][676]LogBlueprintUserMessages: [Enemy2_C_4] You have damaged me good sir
+[2020.01.09-23.55.20:242][778]LogBlueprintUserMessages: [Enemy2_C_5] You have damaged me good sir
+[2020.01.09-23.55.22:893][ 96]LogBlueprintUserMessages: [Enemy2_C_6] You have damaged me good sir
+[2020.01.09-23.55.23:609][182]LogBlueprintUserMessages: [Enemy1_C_8] You have damaged me good sir
+[2020.01.09-23.55.23:984][227]LogBlueprintUserMessages: [Enemy1_C_6] You have damaged me good sir
+[2020.01.09-23.55.26:035][473]LogBlueprintUserMessages: [Enemy1_C_7] You have damaged me good sir
+[2020.01.09-23.55.26:518][531]LogBlueprintUserMessages: [Enemy2_C_9] You have damaged me good sir
+[2020.01.09-23.55.27:760][680]LogBlueprintUserMessages: [Enemy2_C_7] You have damaged me good sir
+[2020.01.09-23.55.29:152][847]LogBlueprintUserMessages: [Enemy1_C_9] You have damaged me good sir
+[2020.01.09-23.55.30:927][ 60]LogBlueprintUserMessages: [Enemy2_C_8] You have damaged me good sir
+[2020.01.09-23.55.33:396][356]LogBlueprintUserMessages: [Enemy1_C_10] You have damaged me good sir
+[2020.01.09-23.55.33:897][416]LogBlueprintUserMessages: [Enemy1_C_11] You have damaged me good sir
+[2020.01.09-23.55.34:629][504]LogBlueprintUserMessages: [Enemy2_C_10] You have damaged me good sir
+[2020.01.09-23.55.35:479][606]LogBlueprintUserMessages: [Enemy2_C_12] You have damaged me good sir
+[2020.01.09-23.55.36:230][696]LogBlueprintUserMessages: [Enemy2_C_11] You have damaged me good sir
+[2020.01.09-23.55.40:749][238]LogBlueprintUserMessages: [Enemy1_C_14] You have damaged me good sir
+[2020.01.09-23.55.41:158][287]LogBlueprintUserMessages: [Enemy1_C_13] You have damaged me good sir
+[2020.01.09-23.55.41:433][320]LogBlueprintUserMessages: [Enemy2_C_13] You have damaged me good sir
+[2020.01.09-23.55.42:458][443]LogBlueprintUserMessages: [Enemy2_C_15] You have damaged me good sir
+[2020.01.09-23.55.43:599][580]LogBlueprintUserMessages: [Enemy2_C_14] You have damaged me good sir
+[2020.01.09-23.55.45:384][794]LogBlueprintUserMessages: [Enemy1_C_16] You have damaged me good sir
+[2020.01.09-23.55.46:251][898]LogBlueprintUserMessages: [Enemy1_C_15] You have damaged me good sir
+[2020.01.09-23.55.46:417][918]LogBlueprintUserMessages: [Enemy2_C_16] You have damaged me good sir
+[2020.01.09-23.55.46:534][932]LogBlueprintUserMessages: [Enemy1_C_18] You have damaged me good sir
+[2020.01.09-23.55.57:083][195]LogCharacterMovement: Enemy2_C_19 is stuck and failed to move! Velocity: X=17.92 Y=5.68 Z=0.00 Location: X=-22.59 Y=894.17 Z=108.15 Normal: X=0.00 Y=0.92 Z=0.40 PenetrationDepth:1.322 Actor:BlockingVolume_1 Component:BrushComponent0 BoneName:None (0 other events since notify)
+[2020.01.09-23.55.57:292][220]LogCharacterMovement: Enemy2_C_18 is stuck and failed to move! Velocity: X=16.20 Y=5.37 Z=0.00 Location: X=-120.07 Y=897.38 Z=108.20 Normal: X=-0.95 Y=0.32 Z=0.02 PenetrationDepth:28.932 Actor:Enemy2_C_19 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2020.01.09-23.55.57:517][247]LogCharacterMovement: Enemy1_C_20 is stuck and failed to move! Velocity: X=61.13 Y=73.00 Z=0.00 Location: X=-195.85 Y=903.05 Z=108.09 Normal: X=-0.98 Y=0.21 Z=0.00 PenetrationDepth:0.902 Actor:Enemy2_C_18 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2020.01.09-23.55.58:142][322]LogCharacterMovement: Enemy2_C_17 is stuck and failed to move! Velocity: X=131.43 Y=-29.28 Z=0.00 Location: X=181.78 Y=890.62 Z=107.83 Normal: X=-0.94 Y=0.20 Z=-0.28 PenetrationDepth:6.028 Actor:Enemy3_C_1 Component:Ship BoneName:None (0 other events since notify)
+[2020.01.09-23.55.58:300][341]LogCharacterMovement: Enemy2_C_18 is stuck and failed to move! Velocity: X=17.06 Y=-0.36 Z=0.00 Location: X=-93.25 Y=915.95 Z=108.38 Normal: X=0.99 Y=0.17 Z=0.00 PenetrationDepth:5.931 Actor:Enemy1_C_20 Component:CollisionCylinder BoneName:None (95 other events since notify)
+[2020.01.09-23.55.58:942][418]LogCharacterMovement: Enemy1_C_20 is stuck and failed to move! Velocity: X=147.80 Y=-29.20 Z=0.00 Location: X=5.93 Y=911.70 Z=108.09 Normal: X=-1.00 Y=-0.06 Z=0.00 PenetrationDepth:0.033 Actor:Enemy2_C_18 Component:CollisionCylinder BoneName:None (89 other events since notify)
+[2020.01.09-23.55.59:743][514]LogCharacterMovement: Enemy2_C_18 is stuck and failed to move! Velocity: X=73.70 Y=-83.31 Z=0.00 Location: X=130.00 Y=878.00 Z=108.38 Normal: X=0.12 Y=0.91 Z=0.40 PenetrationDepth:0.065 Actor:BlockingVolume_1 Component:BrushComponent0 BoneName:None (0 other events since notify)
+[2020.01.09-23.56.00:009][546]LogCharacterMovement: Enemy2_C_21 is stuck and failed to move! Velocity: X=2.53 Y=-16.95 Z=0.00 Location: X=869.35 Y=150.11 Z=108.20 Normal: X=0.50 Y=0.63 Z=-0.60 PenetrationDepth:5.451 Actor:Enemy3_C_0 Component:Ship BoneName:None (0 other events since notify)
+[2020.01.09-23.56.00:359][588]LogCharacterMovement: Enemy2_C_17 is stuck and failed to move! Velocity: X=16.85 Y=2.73 Z=0.00 Location: X=291.16 Y=846.76 Z=108.50 Normal: X=-1.00 Y=-0.04 Z=0.03 PenetrationDepth:9.055 Actor:Enemy3_C_1 Component:CollisionCylinder BoneName:None (22 other events since notify)
+[2020.01.09-23.56.00:368][589]LogCharacterMovement: Enemy3_C_2 is stuck and failed to move! Velocity: X=-16.90 Y=2.38 Z=0.00 Location: X=2138.31 Y=-164.67 Z=105.94 Normal: X=0.06 Y=-0.72 Z=-0.70 PenetrationDepth:0.566 Actor:Enemy3_C_3 Component:Ship BoneName:None (0 other events since notify)
+[2020.01.09-23.56.00:659][624]LogCharacterMovement: Enemy2_C_22 is stuck and failed to move! Velocity: X=41.24 Y=-54.41 Z=0.00 Location: X=426.56 Y=947.83 Z=104.72 Normal: X=-0.10 Y=0.19 Z=-0.98 PenetrationDepth:0.837 Actor:Enemy3_C_1 Component:Ship BoneName:None (0 other events since notify)
+[2020.01.09-23.56.00:676][626]LogCharacterMovement: Enemy2_C_19 is stuck and failed to move! Velocity: X=50.23 Y=-3.46 Z=0.00 Location: X=235.98 Y=911.37 Z=108.23 Normal: X=-0.59 Y=0.79 Z=0.15 PenetrationDepth:0.096 Actor:Enemy2_C_17 Component:CollisionCylinder BoneName:None (15 other events since notify)
+[2020.01.09-23.56.00:877][650]LogBlueprintUserMessages: [Enemy3_C_1] You have damaged me good sir
+[2020.01.09-23.56.00:927][656]LogBlueprintUserMessages: [Enemy2_C_17] You have damaged me good sir
+[2020.01.09-23.56.00:985][663]LogBlueprintUserMessages: [Enemy1_C_21] You have damaged me good sir
+[2020.01.09-23.56.00:992][664]LogBlueprintUserMessages: [Enemy2_C_19] You have damaged me good sir
+[2020.01.09-23.56.01:069][673]LogBlueprintUserMessages: [Enemy1_C_20] You have damaged me good sir
+[2020.01.09-23.56.01:159][684]LogCharacterMovement: Enemy2_C_21 is stuck and failed to move! Velocity: X=-87.92 Y=593.52 Z=0.00 Location: X=849.58 Y=269.34 Z=100.44 Normal: X=-0.14 Y=0.86 Z=-0.49 PenetrationDepth:21.625 Actor:Enemy3_C_0 Component:Ship BoneName:None (17 other events since notify)
+[2020.01.09-23.56.01:693][748]LogBlueprintUserMessages: [Enemy1_C_24] You have damaged me good sir
+[2020.01.09-23.56.01:711][750]LogBlueprintUserMessages: [Enemy2_C_18] You have damaged me good sir
+[2020.01.09-23.56.01:759][756]LogBlueprintUserMessages: [Enemy2_C_20] You have damaged me good sir
+[2020.01.09-23.56.04:501][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.09-23.56.04:552][ 91]LogNet: Browse: /Game/ThirdPersonBP/Maps/MainMenu
+[2020.01.09-23.56.04:552][ 91]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/MainMenu
+[2020.01.09-23.56.04:583][ 91]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.09-23.56.04:584][ 91]LogLoad: Game class is 'MainMenuGamemode_C'
+[2020.01.09-23.56.04:585][ 91]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.01.09-15.56.04
+[2020.01.09-23.56.04:585][ 91]LogWorld: Bringing up level for play took: 0.000367
+[2020.01.09-23.56.04:585][ 91]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.09-23.56.04:585][ 91]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.56.04:585][ 91]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.56.04:585][ 91]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.56.04:586][ 91]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.56.04:586][ 91]LogLoad: Took 0.034065 seconds to LoadMap(/Game/ThirdPersonBP/Maps/MainMenu)
+[2020.01.09-23.56.05:437][193]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2020.01.09-23.56.05:437][193]LogGameState: Match State Changed from InProgress to LeavingMap
+[2020.01.09-23.56.05:437][193]LogNet: Browse: /Game/ThirdPersonBP/Maps/LevelSelect
+[2020.01.09-23.56.05:438][193]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/LevelSelect
+[2020.01.09-23.56.05:465][193]LogAIModule: Creating AISystem for world LevelSelect
+[2020.01.09-23.56.05:465][193]LogLoad: Game class is 'MainMenuGamemode_C'
+[2020.01.09-23.56.05:466][193]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_LevelSelect.LevelSelect up for play (max tick rate 0) at 2020.01.09-15.56.05
+[2020.01.09-23.56.05:466][193]LogWorld: Bringing up level for play took: 0.000344
+[2020.01.09-23.56.05:467][193]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.09-23.56.05:467][193]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.56.05:467][193]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.09-23.56.05:467][193]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.56.05:468][193]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.09-23.56.05:468][193]LogLoad: Took 0.031064 seconds to LoadMap(/Game/ThirdPersonBP/Maps/LevelSelect)
+[2020.01.09-23.56.06:144][274]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2020.01.09-23.56.06:144][274]LogGameState: Match State Changed from InProgress to LeavingMap
+[2020.01.09-23.56.06:144][274]LogNet: Browse: /Game/ThirdPersonBP/Maps/Level04
+[2020.01.09-23.56.06:144][274]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/Level04
+[2020.01.09-23.56.07:618][274]LogAIModule: Creating AISystem for world Level04
+[2020.01.09-23.56.07:618][274]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.09-23.56.07:625][274]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level04.Level04 up for play (max tick rate 0) at 2020.01.09-15.56.07
+[2020.01.09-23.56.07:626][274]LogWorld: Bringing up level for play took: 0.006837
+[2020.01.09-23.56.07:626][274]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.09-23.56.07:630][274]LogLoad: Took 1.485305 seconds to LoadMap(/Game/ThirdPersonBP/Maps/Level04)
+[2020.01.09-23.56.11:041][680]LogBlueprintUserMessages: [Enemy1_C_0] You have damaged me good sir
+[2020.01.09-23.56.11:726][762]LogBlueprintUserMessages: [Enemy2_C_1] You have damaged me good sir
+[2020.01.09-23.56.11:842][776]LogBlueprintUserMessages: [Enemy1_C_1] You have damaged me good sir
+[2020.01.09-23.56.13:050][921]LogBlueprintUserMessages: [Enemy1_C_2] You have damaged me good sir
+[2020.01.09-23.56.13:509][976]LogBlueprintUserMessages: [Enemy2_C_0] You have damaged me good sir
+[2020.01.09-23.56.14:451][ 89]LogBlueprintUserMessages: [Enemy1_C_3] You have damaged me good sir
+[2020.01.09-23.56.16:934][387]LogBlueprintUserMessages: [Enemy2_C_2] You have damaged me good sir
+[2020.01.09-23.56.18:170][535]LogBlueprintUserMessages: [Enemy2_C_4] You have damaged me good sir
+[2020.01.09-23.56.18:686][597]LogBlueprintUserMessages: [Enemy2_C_3] You have damaged me good sir
+[2020.01.09-23.56.19:829][734]LogBlueprintUserMessages: [Enemy1_C_4] You have damaged me good sir
+[2020.01.09-23.56.21:053][881]LogBlueprintUserMessages: [Enemy2_C_5] You have damaged me good sir
+[2020.01.09-23.56.22:154][ 13]LogBlueprintUserMessages: [Enemy1_C_6] You have damaged me good sir
+[2020.01.09-23.56.22:538][ 59]LogBlueprintUserMessages: [Enemy1_C_5] You have damaged me good sir
+[2020.01.09-23.56.24:038][239]LogBlueprintUserMessages: [Enemy2_C_6] You have damaged me good sir
+[2020.01.09-23.56.25:424][405]LogBlueprintUserMessages: [Enemy1_C_8] You have damaged me good sir
+[2020.01.09-23.56.26:332][514]LogBlueprintUserMessages: [Enemy2_C_9] You have damaged me good sir
+[2020.01.09-23.56.26:398][522]LogBlueprintUserMessages: [Enemy2_C_7] You have damaged me good sir
+[2020.01.09-23.56.27:565][662]LogBlueprintUserMessages: [Enemy1_C_7] You have damaged me good sir
+[2020.01.09-23.56.29:082][844]LogBlueprintUserMessages: [Enemy2_C_8] You have damaged me good sir
+[2020.01.09-23.56.29:641][911]LogBlueprintUserMessages: [Enemy1_C_10] You have damaged me good sir
+[2020.01.09-23.56.31:650][152]LogBlueprintUserMessages: [Enemy1_C_9] You have damaged me good sir
+[2020.01.09-23.56.33:302][350]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.09-23.56.33:302][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-23.56.33:337][350]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.09-23.56.33:338][350]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.09-23.56.33:361][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.09-23.56.33:400][352]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.01.09-23.57.47:537][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-00.16.17:794][506]LogDirectoryWatcher: A directory notification failed for 'C:/Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2020.01.10-00.16.17:794][506]LogDirectoryWatcher: A directory notification failed for 'C:/Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Content/Developers/jsaem/Collections/' because it could not be accessed. Aborting watch request...
+[2020.01.10-00.16.18:131][507]LogDirectoryWatcher: A directory notification failed for 'C:/Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2020.01.10-00.16.22:158][520]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.10-00.16.37:236][298]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/RoboBars/Demo/Blueprints/BP_Hud.BP_Hud
+[2020.01.10-00.16.37:570][298]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 117 classes and 0 folders.
+[2020.01.10-00.16.38:186][298]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.10-00.16.52:221][958]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/UserInterface/TouchHUD.TouchHUD
+[2020.01.10-00.18.10:062][984]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/RoboBars/Materials/ExamplesUmg/MI_UmgPogressColors.MI_UmgPogressColors
+[2020.01.10-00.18.27:192][959]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.01.10-00.18.27:247][959]LogSavePackage: Moving '../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/MI_UmgPogressColors07C9329A4085F02CF32A70B4D78D3D42.tmp' to '../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Content/RoboBars/Materials/ExamplesUmg/MI_UmgPogressColors.uasset'
+[2020.01.10-00.18.37:096][132]BlueprintLog: New page: Compile TouchHUD
+[2020.01.10-00.18.39:378][382]LogSavePackage: Moving '../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/TouchHUD90EADE27427F5795226E8FAACA96FEBA.tmp' to '../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Content/ThirdPersonBP/Blueprints/UserInterface/TouchHUD.uasset'
+[2020.01.10-00.18.42:354][738]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.10-00.18.42:374][738]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.18.42:375][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.10-00.18.42:375][738]PIE: New page: PIE session: Level01 (Jan 9, 2020, 8:18:42 AM)
+[2020.01.10-00.18.42:375][738]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01
+[2020.01.10-00.18.42:392][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016932s)
+[2020.01.10-00.18.42:393][738]LogAIModule: Creating AISystem for world Level01
+[2020.01.10-00.18.42:393][738]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2020.01.10-00.18.42:393][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level01.Level01 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01.Level01 (0.017925s)
+[2020.01.10-00.18.42:443][738]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.10-00.18.42:452][738]LogInit: FAudioDevice initialized.
+[2020.01.10-00.18.42:484][738]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.10-00.18.42:486][738]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2020.01.09-16.18.42
+[2020.01.10-00.18.42:486][738]LogWorld: Bringing up level for play took: 0.001109
+[2020.01.10-00.18.42:501][738]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01 -0.432
+[2020.01.10-00.18.42:501][738]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.18.45:312][ 71]LogBlueprintUserMessages: [Enemy1_C_1] You have damaged me good sir
+[2020.01.10-00.18.47:162][293]LogBlueprintUserMessages: [Enemy2_C_0] You have damaged me good sir
+[2020.01.10-00.18.48:037][398]LogBlueprintUserMessages: [Enemy1_C_0] You have damaged me good sir
+[2020.01.10-00.18.48:729][481]LogBlueprintUserMessages: [Enemy2_C_2] You have damaged me good sir
+[2020.01.10-00.18.54:194][136]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.18.54:194][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-00.18.54:228][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.10-00.18.54:228][136]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.18.54:258][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-00.18.54:315][138]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.01.10-00.18.55:357][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-00.21.25:783][284]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.10-00.22.21:328][920]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Level01' took 0.024
+[2020.01.10-00.22.21:329][920]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/UserInterface/TouchHUD] ([1] browsable assets)...
+[2020.01.10-00.22.21:329][920]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/UserInterface/TouchHUD]
+[2020.01.10-00.22.21:366][920]LogSavePackage: Moving '../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/TouchHUD_Auto10FAD07A84B54560019AFE69A117E892C.tmp' to '../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/UserInterface/TouchHUD_Auto1.uasset'
+[2020.01.10-00.22.21:366][920]LogFileHelpers: Auto-saving content packages took 0.038
+[2020.01.10-00.23.36:669][428]BlueprintLog: New page: Compile TouchHUD
+[2020.01.10-00.23.36:691][428]LogBlueprint: Error: [Compiler TouchHUD] Binding: Property ' Brush Delegate ' on Widget ' Image_256 ': Member:GetBrush_0 Has the wrong number of arguments, it needs to return 1 value and take no parameters.
+[2020.01.10-00.23.36:724][428]LogBlueprint: Warning: [Compiler TouchHUD] [2129.86] Compile of TouchHUD failed. 1 Fatal Issue(s) 0 Warning(s) [in 54 ms] (/Game/ThirdPersonBP/Blueprints/UserInterface/TouchHUD.TouchHUD)
+[2020.01.10-00.23.40:887][923]LogBlueprint: Warning: Unknown type of hyperlinked object (BrushDelegate), cannot focus it
+[2020.01.10-00.23.42:597][128]LogBlueprint: Warning: Unknown type of hyperlinked object (Image_256), cannot focus it
+[2020.01.10-00.24.40:155][  8]BlueprintLog: New page: Compile TouchHUD
+[2020.01.10-00.24.40:179][  8]LogBlueprint: Error: [Compiler TouchHUD] Binding: Property ' Brush Delegate ' on Widget ' Image_256 ': Member:GetBrush_0 Has the wrong number of arguments, it needs to return 1 value and take no parameters.
+[2020.01.10-00.24.40:247][  8]LogBlueprint: Warning: [Compiler TouchHUD] [2193.38] Compile of TouchHUD failed. 1 Fatal Issue(s) 0 Warning(s) [in 92 ms] (/Game/ThirdPersonBP/Blueprints/UserInterface/TouchHUD.TouchHUD)
+[2020.01.10-00.25.02:835][710]LogBlueprint: Warning: Unknown type of hyperlinked object (Image_256), cannot focus it
+[2020.01.10-00.25.38:714][  3]BlueprintLog: New page: Compile TouchHUD
+[2020.01.10-00.25.38:773][  3]LogBlueprint: Error: [Compiler TouchHUD] Binding: Property ' Brush Delegate ' on Widget ' Image_256 ': Member:GetBrush_0 Has no return value, unable to bind.
+[2020.01.10-00.25.38:914][  3]LogBlueprint: Warning: [Compiler TouchHUD] [2252.05] Compile of TouchHUD failed. 1 Fatal Issue(s) 0 Warning(s) [in 200 ms] (/Game/ThirdPersonBP/Blueprints/UserInterface/TouchHUD.TouchHUD)
+[2020.01.10-00.25.51:706][520]BlueprintLog: New page: Compile TouchHUD
+[2020.01.10-00.25.52:692][622]LogSavePackage: Moving '../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/TouchHUDE858CB90498AC71396D44697560454E9.tmp' to '../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Content/ThirdPersonBP/Blueprints/UserInterface/TouchHUD.uasset'
+[2020.01.10-00.25.54:094][787]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.10-00.25.54:127][787]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.25.54:127][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.10-00.25.54:127][787]PIE: New page: PIE session: Level01 (Jan 9, 2020, 8:25:54 AM)
+[2020.01.10-00.25.54:128][787]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01
+[2020.01.10-00.25.54:144][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016602s)
+[2020.01.10-00.25.54:145][787]LogAIModule: Creating AISystem for world Level01
+[2020.01.10-00.25.54:145][787]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2020.01.10-00.25.54:145][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level01.Level01 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01.Level01 (0.017527s)
+[2020.01.10-00.25.54:197][787]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.10-00.25.54:205][787]LogInit: FAudioDevice initialized.
+[2020.01.10-00.25.54:237][787]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.10-00.25.54:238][787]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2020.01.09-16.25.54
+[2020.01.10-00.25.54:239][787]LogWorld: Bringing up level for play took: 0.001254
+[2020.01.10-00.25.54:253][787]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01 -0.679
+[2020.01.10-00.25.54:253][787]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.25.58:542][297]LogBlueprintUserMessages: [Enemy2_C_0] You have damaged me good sir
+[2020.01.10-00.26.01:326][626]LogBlueprintUserMessages: [Enemy1_C_0] You have damaged me good sir
+[2020.01.10-00.26.01:584][657]LogBlueprintUserMessages: [Enemy2_C_2] You have damaged me good sir
+[2020.01.10-00.26.03:977][944]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.26.03:977][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-00.26.04:009][944]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.10-00.26.04:009][944]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.26.04:037][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-00.26.04:096][946]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.01.10-00.26.05:455][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-00.27.50:272][582]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/RoboBars/Materials/ExamplesUmg/MI_UmgPogressColors.MI_UmgPogressColors
+[2020.01.10-00.28.08:732][757]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.01.10-00.28.08:780][757]LogSavePackage: Moving '../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/MI_UmgPogressColorsD9E83C114ADF82F6B3D52995D8603DC1.tmp' to '../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Content/RoboBars/Materials/ExamplesUmg/MI_UmgPogressColors.uasset'
+[2020.01.10-00.28.16:501][674]BlueprintLog: New page: Compile TouchHUD
+[2020.01.10-00.28.17:973][827]LogSavePackage: Moving '../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/TouchHUD72E43C9B458872FBAABF73B3BAC84493.tmp' to '../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Content/ThirdPersonBP/Blueprints/UserInterface/TouchHUD.uasset'
+[2020.01.10-00.28.22:923][419]BlueprintLog: New page: Compile TouchHUD
+[2020.01.10-00.28.24:460][586]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.10-00.28.24:480][586]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.28.24:480][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.10-00.28.24:480][586]PIE: New page: PIE session: Level01 (Jan 9, 2020, 8:28:24 AM)
+[2020.01.10-00.28.24:481][586]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01
+[2020.01.10-00.28.24:496][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014919s)
+[2020.01.10-00.28.24:496][586]LogAIModule: Creating AISystem for world Level01
+[2020.01.10-00.28.24:497][586]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2020.01.10-00.28.24:497][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level01.Level01 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01.Level01 (0.015942s)
+[2020.01.10-00.28.24:549][586]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.10-00.28.24:558][586]LogInit: FAudioDevice initialized.
+[2020.01.10-00.28.24:594][586]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.10-00.28.24:598][586]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2020.01.09-16.28.24
+[2020.01.10-00.28.24:599][586]LogWorld: Bringing up level for play took: 0.002964
+[2020.01.10-00.28.24:622][586]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01 -0.311
+[2020.01.10-00.28.24:622][586]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.28.27:686][949]LogBlueprintUserMessages: [Enemy2_C_0] You have damaged me good sir
+[2020.01.10-00.28.31:695][430]LogBlueprintUserMessages: [Enemy1_C_3] You have damaged me good sir
+[2020.01.10-00.28.32:505][527]LogBlueprintUserMessages: [Enemy1_C_2] You have damaged me good sir
+[2020.01.10-00.28.32:879][572]LogBlueprintUserMessages: [Enemy2_C_4] You have damaged me good sir
+[2020.01.10-00.28.36:455][  1]LogCharacterMovement: Enemy1_C_1 is stuck and failed to move! Velocity: X=-26.32 Y=4.67 Z=0.00 Location: X=73.89 Y=937.82 Z=108.20 Normal: X=0.97 Y=0.23 Z=-0.00 PenetrationDepth:5.894 Actor:Enemy2_C_3 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2020.01.10-00.28.37:104][ 79]LogCharacterMovement: Enemy2_C_2 is stuck and failed to move! Velocity: X=-176.45 Y=127.61 Z=0.00 Location: X=146.37 Y=868.52 Z=108.26 Normal: X=0.12 Y=0.91 Z=0.40 PenetrationDepth:1.676 Actor:BlockingVolume_1 Component:BrushComponent0 BoneName:None (0 other events since notify)
+[2020.01.10-00.28.39:455][361]LogCharacterMovement: Enemy1_C_5 is stuck and failed to move! Velocity: X=17.02 Y=1.31 Z=0.00 Location: X=-85.72 Y=911.25 Z=108.09 Normal: X=-1.00 Y=-0.10 Z=0.00 PenetrationDepth:3.007 Actor:Enemy2_C_3 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2020.01.10-00.28.39:539][371]LogBlueprintUserMessages: [Enemy2_C_3] You have damaged me good sir
+[2020.01.10-00.28.39:563][374]LogBlueprintUserMessages: [Enemy2_C_2] You have damaged me good sir
+[2020.01.10-00.28.39:572][375]LogBlueprintUserMessages: [Enemy1_C_1] You have damaged me good sir
+[2020.01.10-00.28.39:630][382]LogBlueprintUserMessages: [Enemy1_C_4] You have damaged me good sir
+[2020.01.10-00.28.39:639][383]LogBlueprintUserMessages: [Enemy1_C_6] You have damaged me good sir
+[2020.01.10-00.28.39:663][386]LogBlueprintUserMessages: [Enemy1_C_5] You have damaged me good sir
+[2020.01.10-00.28.40:738][515]LogBlueprintUserMessages: [Enemy2_C_7] You have damaged me good sir
+[2020.01.10-00.28.41:046][552]LogBlueprintUserMessages: [Enemy2_C_1] You have damaged me good sir
+[2020.01.10-00.28.41:705][631]LogBlueprintUserMessages: [Enemy2_C_6] You have damaged me good sir
+[2020.01.10-00.28.49:791][601]LogBlueprintUserMessages: [Enemy2_C_8] You have damaged me good sir
+[2020.01.10-00.28.49:841][607]LogBlueprintUserMessages: [Enemy2_C_5] You have damaged me good sir
+[2020.01.10-00.28.50:182][648]LogBlueprintUserMessages: [Enemy1_C_9] You have damaged me good sir
+[2020.01.10-00.28.50:207][651]LogBlueprintUserMessages: [Enemy1_C_8] You have damaged me good sir
+[2020.01.10-00.28.55:400][274]LogNet: Browse: /Game/ThirdPersonBP/Maps/MainMenu
+[2020.01.10-00.28.55:400][274]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/MainMenu
+[2020.01.10-00.28.55:440][274]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.10-00.28.55:440][274]LogLoad: Game class is 'MainMenuGamemode_C'
+[2020.01.10-00.28.55:442][274]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.01.09-16.28.55
+[2020.01.10-00.28.55:442][274]LogWorld: Bringing up level for play took: 0.000557
+[2020.01.10-00.28.55:442][274]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.10-00.28.55:443][274]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.10-00.28.55:443][274]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.10-00.28.55:443][274]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.10-00.28.55:444][274]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.10-00.28.55:444][274]LogLoad: Took 0.043527 seconds to LoadMap(/Game/ThirdPersonBP/Maps/MainMenu)
+[2020.01.10-00.28.56:352][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-00.28.56:452][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-00.28.56:452][393]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.28.56:482][393]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.10-00.28.56:483][393]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.28.56:511][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-00.28.56:559][394]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.01.10-00.28.58:745][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-00.29.32:661][698]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.10-00.30.09:623][129]BlueprintLog: New page: Compile TouchHUD
+[2020.01.10-00.30.12:086][404]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.10-00.30.12:107][404]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.30.12:108][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.10-00.30.12:108][404]PIE: New page: PIE session: Level01 (Jan 9, 2020, 8:30:12 AM)
+[2020.01.10-00.30.12:108][404]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01
+[2020.01.10-00.30.12:124][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015824s)
+[2020.01.10-00.30.12:125][404]LogAIModule: Creating AISystem for world Level01
+[2020.01.10-00.30.12:125][404]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2020.01.10-00.30.12:125][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level01.Level01 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01.Level01 (0.016922s)
+[2020.01.10-00.30.12:173][404]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.10-00.30.12:181][404]LogInit: FAudioDevice initialized.
+[2020.01.10-00.30.12:214][404]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.10-00.30.12:216][404]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2020.01.09-16.30.12
+[2020.01.10-00.30.12:216][404]LogWorld: Bringing up level for play took: 0.001116
+[2020.01.10-00.30.12:231][404]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01 -0.702
+[2020.01.10-00.30.12:231][404]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.30.19:819][310]LogCharacterMovement: Enemy1_C_1 is stuck and failed to move! Velocity: X=-11.69 Y=-12.44 Z=0.00 Location: X=112.87 Y=-826.90 Z=108.20 Normal: X=0.68 Y=0.73 Z=0.00 PenetrationDepth:0.000 Actor:Enemy2_C_1 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2020.01.10-00.30.20:085][342]LogCharacterMovement: Enemy2_C_1 is stuck and failed to move! Velocity: X=-5.83 Y=20.47 Z=0.00 Location: X=67.82 Y=-917.85 Z=108.09 Normal: X=0.49 Y=-0.87 Z=-0.00 PenetrationDepth:7.782 Actor:Enemy1_C_2 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2020.01.10-00.30.21:005][452]LogBlueprintUserMessages: [Enemy1_C_2] You have damaged me good sir
+[2020.01.10-00.30.21:013][453]LogBlueprintUserMessages: [Enemy1_C_1] You have damaged me good sir
+[2020.01.10-00.30.21:063][459]LogBlueprintUserMessages: [Enemy2_C_1] You have damaged me good sir
+[2020.01.10-00.30.21:089][462]LogBlueprintUserMessages: [Enemy2_C_3] You have damaged me good sir
+[2020.01.10-00.30.21:113][465]LogBlueprintUserMessages: [Enemy1_C_0] You have damaged me good sir
+[2020.01.10-00.30.23:862][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-00.30.23:930][803]LogNet: Browse: /Game/ThirdPersonBP/Maps/MainMenu
+[2020.01.10-00.30.23:930][803]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/MainMenu
+[2020.01.10-00.30.23:966][803]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.10-00.30.23:967][803]LogLoad: Game class is 'MainMenuGamemode_C'
+[2020.01.10-00.30.23:968][803]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.01.09-16.30.23
+[2020.01.10-00.30.23:968][803]LogWorld: Bringing up level for play took: 0.000422
+[2020.01.10-00.30.23:968][803]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.10-00.30.23:968][803]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.10-00.30.23:968][803]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.10-00.30.23:968][803]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.10-00.30.23:969][803]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.10-00.30.23:969][803]LogLoad: Took 0.039034 seconds to LoadMap(/Game/ThirdPersonBP/Maps/MainMenu)
+[2020.01.10-00.30.27:343][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-00.30.27:343][206]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.30.27:375][206]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.10-00.30.27:375][206]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.30.27:403][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-00.30.27:456][207]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.01.10-00.30.34:912][ 77]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.01.10-00.30.34:957][ 77]LogSavePackage: Moving '../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/MI_UmgPogressColors504AD3974BB8D3DD717DF3A565BB9702.tmp' to '../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Content/RoboBars/Materials/ExamplesUmg/MI_UmgPogressColors.uasset'
+[2020.01.10-00.31.55:610][571]BlueprintLog: New page: Compile TouchHUD
+[2020.01.10-00.34.08:037][752]BlueprintLog: New page: Compile TouchHUD
+[2020.01.10-00.34.08:887][835]LogSavePackage: Moving '../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/TouchHUD7337C1F1417D4CD62304ADB85AD0699D.tmp' to '../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Content/ThirdPersonBP/Blueprints/UserInterface/TouchHUD.uasset'
+[2020.01.10-00.34.13:442][344]LogSavePackage: Moving '../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/Level012DD2AC0842D88AF33B31BBB47F0B6054.tmp' to '../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Content/ThirdPersonBP/Maps/Level01.umap'
+[2020.01.10-00.34.13:534][344]LogSavePackage: Moving '../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/Level01_BuiltDataA6AF879A4D64AD9FC00DB78FDD342C47.tmp' to '../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Content/ThirdPersonBP/Maps/Level01_BuiltData.uasset'
+[2020.01.10-00.34.18:552][941]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.10-00.34.18:585][941]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.34.18:585][941]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.10-00.34.18:585][941]PIE: New page: PIE session: Level01 (Jan 9, 2020, 8:34:18 AM)
+[2020.01.10-00.34.18:585][941]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01
+[2020.01.10-00.34.18:602][941]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017003s)
+[2020.01.10-00.34.18:603][941]LogAIModule: Creating AISystem for world Level01
+[2020.01.10-00.34.18:603][941]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2020.01.10-00.34.18:603][941]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level01.Level01 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01.Level01 (0.017891s)
+[2020.01.10-00.34.18:656][941]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.10-00.34.18:664][941]LogInit: FAudioDevice initialized.
+[2020.01.10-00.34.18:694][941]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.10-00.34.18:695][941]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2020.01.09-16.34.18
+[2020.01.10-00.34.18:696][941]LogWorld: Bringing up level for play took: 0.001232
+[2020.01.10-00.34.18:711][941]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01 -0.222
+[2020.01.10-00.34.18:711][941]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.34.26:718][897]LogBlueprintUserMessages: [Enemy2_C_2] You have damaged me good sir
+[2020.01.10-00.34.27:185][953]LogBlueprintUserMessages: [Enemy1_C_3] You have damaged me good sir
+[2020.01.10-00.34.27:218][957]LogBlueprintUserMessages: [Enemy2_C_0] You have damaged me good sir
+[2020.01.10-00.34.27:452][985]LogBlueprintUserMessages: [Enemy2_C_1] You have damaged me good sir
+[2020.01.10-00.34.28:102][ 63]LogBlueprintUserMessages: [Enemy1_C_2] You have damaged me good sir
+[2020.01.10-00.34.29:202][195]LogBlueprintUserMessages: [Enemy2_C_5] You have damaged me good sir
+[2020.01.10-00.34.29:856][268]LogBlueprintUserMessages: [Enemy1_C_4] You have damaged me good sir
+[2020.01.10-00.34.31:876][510]LogBlueprintUserMessages: [Enemy1_C_5] You have damaged me good sir
+[2020.01.10-00.34.32:759][616]LogBlueprintUserMessages: [Enemy2_C_3] You have damaged me good sir
+[2020.01.10-00.34.32:768][617]LogBlueprintUserMessages: [Enemy2_C_4] You have damaged me good sir
+[2020.01.10-00.34.33:434][697]LogBlueprintUserMessages: [Enemy1_C_7] You have damaged me good sir
+[2020.01.10-00.34.33:718][731]LogBlueprintUserMessages: [Enemy2_C_6] You have damaged me good sir
+[2020.01.10-00.34.38:702][329]LogBlueprintUserMessages: [Enemy1_C_8] You have damaged me good sir
+[2020.01.10-00.34.40:760][576]LogCharacterMovement: Enemy2_C_8 is stuck and failed to move! Velocity: X=-50.58 Y=-80.01 Z=0.00 Location: X=871.67 Y=40.57 Z=108.14 Normal: X=0.91 Y=0.06 Z=0.40 PenetrationDepth:0.507 Actor:BlockingVolume_1 Component:BrushComponent0 BoneName:None (0 other events since notify)
+[2020.01.10-00.34.41:189][627]LogBlueprintUserMessages: [Enemy2_C_7] You have damaged me good sir
+[2020.01.10-00.34.41:423][655]LogBlueprintUserMessages: [Enemy1_C_9] You have damaged me good sir
+[2020.01.10-00.34.41:881][710]LogBlueprintUserMessages: [Enemy1_C_10] You have damaged me good sir
+[2020.01.10-00.34.43:174][865]LogBlueprintUserMessages: [Enemy2_C_11] You have damaged me good sir
+[2020.01.10-00.34.43:206][869]LogBlueprintUserMessages: [Enemy2_C_8] You have damaged me good sir
+[2020.01.10-00.34.43:265][876]LogBlueprintUserMessages: [Enemy2_C_9] You have damaged me good sir
+[2020.01.10-00.34.46:575][273]LogBlueprintUserMessages: [Enemy2_C_13] You have damaged me good sir
+[2020.01.10-00.34.47:566][392]LogBlueprintUserMessages: [Enemy2_C_10] You have damaged me good sir
+[2020.01.10-00.34.48:508][505]LogBlueprintUserMessages: [Enemy1_C_12] You have damaged me good sir
+[2020.01.10-00.34.48:850][546]LogBlueprintUserMessages: [Enemy1_C_14] You have damaged me good sir
+[2020.01.10-00.34.51:661][883]LogBlueprintUserMessages: [Enemy2_C_16] You have damaged me good sir
+[2020.01.10-00.34.52:402][972]LogBlueprintUserMessages: [Enemy2_C_12] You have damaged me good sir
+[2020.01.10-00.34.53:820][142]LogBlueprintUserMessages: [Enemy2_C_14] You have damaged me good sir
+[2020.01.10-00.34.55:478][341]LogBlueprintUserMessages: [Enemy2_C_15] You have damaged me good sir
+[2020.01.10-00.34.57:228][551]LogBlueprintUserMessages: [Enemy1_C_17] You have damaged me good sir
+[2020.01.10-00.35.01:299][ 39]LogNet: Browse: /Game/ThirdPersonBP/Maps/MainMenu
+[2020.01.10-00.35.01:299][ 39]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/MainMenu
+[2020.01.10-00.35.01:335][ 39]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.10-00.35.01:335][ 39]LogLoad: Game class is 'MainMenuGamemode_C'
+[2020.01.10-00.35.01:336][ 39]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.01.09-16.35.01
+[2020.01.10-00.35.01:336][ 39]LogWorld: Bringing up level for play took: 0.000431
+[2020.01.10-00.35.01:336][ 39]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.10-00.35.01:337][ 39]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.10-00.35.01:337][ 39]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.10-00.35.01:337][ 39]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.10-00.35.01:337][ 39]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.10-00.35.01:337][ 39]LogLoad: Took 0.038448 seconds to LoadMap(/Game/ThirdPersonBP/Maps/MainMenu)
+[2020.01.10-00.35.03:604][309]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.35.03:605][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-00.35.03:634][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.10-00.35.03:634][309]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.35.03:661][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-00.35.03:719][311]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.01.10-00.35.08:178][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-00.36.06:481][703]BlueprintLog: New page: Compile TouchHUD
+[2020.01.10-00.36.07:156][762]LogSavePackage: Moving '../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/TouchHUDBA46B7044D8301C8199450B27E331105.tmp' to '../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Content/ThirdPersonBP/Blueprints/UserInterface/TouchHUD.uasset'
+[2020.01.10-00.36.34:111][969]BlueprintLog: New page: Compile TouchHUD
+[2020.01.10-00.36.34:953][ 48]LogSavePackage: Moving '../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/TouchHUDFDD80B85488A97D1E9B576AF2EE036B7.tmp' to '../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Content/ThirdPersonBP/Blueprints/UserInterface/TouchHUD.uasset'
+[2020.01.10-00.36.36:683][253]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.10-00.36.36:716][253]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.36.36:716][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.10-00.36.36:717][253]PIE: New page: PIE session: Level01 (Jan 9, 2020, 8:36:36 AM)
+[2020.01.10-00.36.36:717][253]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01
+[2020.01.10-00.36.36:736][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018673s)
+[2020.01.10-00.36.36:736][253]LogAIModule: Creating AISystem for world Level01
+[2020.01.10-00.36.36:737][253]LogPlayLevel: PIE: World Init took: (0.001109s)
+[2020.01.10-00.36.36:737][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level01.Level01 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01.Level01 (0.020038s)
+[2020.01.10-00.36.36:790][253]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.10-00.36.36:798][253]LogInit: FAudioDevice initialized.
+[2020.01.10-00.36.36:830][253]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.10-00.36.36:832][253]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2020.01.09-16.36.36
+[2020.01.10-00.36.36:833][253]LogWorld: Bringing up level for play took: 0.001281
+[2020.01.10-00.36.36:847][253]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01 -0.086
+[2020.01.10-00.36.36:847][253]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.36.38:949][501]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.36.38:950][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-00.36.38:984][501]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.10-00.36.38:984][501]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.36.39:013][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-00.36.39:073][503]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.01.10-00.36.40:999][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-00.36.47:570][340]BlueprintLog: New page: Compile TouchHUD
+[2020.01.10-00.36.49:175][517]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.10-00.36.49:209][517]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.36.49:209][517]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.10-00.36.49:209][517]PIE: New page: PIE session: Level01 (Jan 9, 2020, 8:36:49 AM)
+[2020.01.10-00.36.49:209][517]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01
+[2020.01.10-00.36.49:227][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017440s)
+[2020.01.10-00.36.49:227][517]LogAIModule: Creating AISystem for world Level01
+[2020.01.10-00.36.49:228][517]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2020.01.10-00.36.49:228][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level01.Level01 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01.Level01 (0.018388s)
+[2020.01.10-00.36.49:278][517]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.10-00.36.49:285][517]LogInit: FAudioDevice initialized.
+[2020.01.10-00.36.49:320][517]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.10-00.36.49:325][517]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2020.01.09-16.36.49
+[2020.01.10-00.36.49:327][517]LogWorld: Bringing up level for play took: 0.004572
+[2020.01.10-00.36.49:351][517]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01 0.419
+[2020.01.10-00.36.49:351][517]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.36.52:464][886]LogBlueprintUserMessages: [Enemy1_C_1] You have damaged me good sir
+[2020.01.10-00.36.54:089][ 81]LogBlueprintUserMessages: [Enemy2_C_0] You have damaged me good sir
+[2020.01.10-00.36.54:931][182]LogBlueprintUserMessages: [Enemy1_C_0] You have damaged me good sir
+[2020.01.10-00.36.55:780][284]LogBlueprintUserMessages: [Enemy2_C_1] You have damaged me good sir
+[2020.01.10-00.36.55:806][287]LogBlueprintUserMessages: [Enemy2_C_2] You have damaged me good sir
+[2020.01.10-00.36.56:873][415]LogBlueprintUserMessages: [Enemy1_C_2] You have damaged me good sir
+[2020.01.10-00.36.57:331][470]LogBlueprintUserMessages: [Enemy2_C_3] You have damaged me good sir
+[2020.01.10-00.36.58:998][670]LogBlueprintUserMessages: [Enemy1_C_3] You have damaged me good sir
+[2020.01.10-00.37.00:090][801]LogBlueprintUserMessages: [Enemy2_C_4] You have damaged me good sir
+[2020.01.10-00.37.01:175][931]LogBlueprintUserMessages: [Enemy1_C_6] You have damaged me good sir
+[2020.01.10-00.37.03:599][222]LogBlueprintUserMessages: [Enemy1_C_5] You have damaged me good sir
+[2020.01.10-00.37.04:733][358]LogBlueprintUserMessages: [Enemy2_C_5] You have damaged me good sir
+[2020.01.10-00.37.05:958][505]LogBlueprintUserMessages: [Enemy2_C_6] You have damaged me good sir
+[2020.01.10-00.37.08:258][781]LogBlueprintUserMessages: [Enemy2_C_7] You have damaged me good sir
+[2020.01.10-00.37.08:967][866]LogBlueprintUserMessages: [Enemy1_C_8] You have damaged me good sir
+[2020.01.10-00.37.10:242][ 19]LogBlueprintUserMessages: [Enemy1_C_7] You have damaged me good sir
+[2020.01.10-00.37.11:366][154]LogBlueprintUserMessages: [Enemy2_C_8] You have damaged me good sir
+[2020.01.10-00.37.12:667][310]LogBlueprintUserMessages: [Enemy1_C_9] You have damaged me good sir
+[2020.01.10-00.37.13:009][351]LogBlueprintUserMessages: [Enemy2_C_9] You have damaged me good sir
+[2020.01.10-00.37.14:498][525]LogBlueprintUserMessages: [Enemy1_C_11] You have damaged me good sir
+[2020.01.10-00.37.16:307][742]LogBlueprintUserMessages: [Enemy2_C_11] You have damaged me good sir
+[2020.01.10-00.37.17:557][892]LogBlueprintUserMessages: [Enemy1_C_10] You have damaged me good sir
+[2020.01.10-00.37.17:708][910]LogBlueprintUserMessages: [Enemy2_C_12] You have damaged me good sir
+[2020.01.10-00.37.19:541][130]LogBlueprintUserMessages: [Enemy1_C_14] You have damaged me good sir
+[2020.01.10-00.37.20:274][218]LogBlueprintUserMessages: [Enemy1_C_12] You have damaged me good sir
+[2020.01.10-00.37.20:524][248]LogBlueprintUserMessages: [Enemy2_C_10] You have damaged me good sir
+[2020.01.10-00.37.20:683][267]LogBlueprintUserMessages: [Enemy2_C_14] You have damaged me good sir
+[2020.01.10-00.37.21:091][316]LogBlueprintUserMessages: [Enemy2_C_13] You have damaged me good sir
+[2020.01.10-00.37.24:684][747]LogBlueprintUserMessages: [Enemy1_C_13] You have damaged me good sir
+[2020.01.10-00.37.25:359][828]LogBlueprintUserMessages: [Enemy1_C_15] You have damaged me good sir
+[2020.01.10-00.37.25:783][879]LogBlueprintUserMessages: [Enemy2_C_15] You have damaged me good sir
+[2020.01.10-00.37.28:642][222]LogBlueprintUserMessages: [Enemy2_C_16] You have damaged me good sir
+[2020.01.10-00.37.30:786][479]LogBlueprintUserMessages: [Enemy1_C_16] You have damaged me good sir
+[2020.01.10-00.37.31:420][555]LogBlueprintUserMessages: [Enemy2_C_17] You have damaged me good sir
+[2020.01.10-00.37.32:111][638]LogBlueprintUserMessages: [Enemy2_C_18] You have damaged me good sir
+[2020.01.10-00.37.32:785][719]LogBlueprintUserMessages: [Enemy1_C_18] You have damaged me good sir
+[2020.01.10-00.37.34:120][879]LogBlueprintUserMessages: [Enemy2_C_19] You have damaged me good sir
+[2020.01.10-00.37.36:328][144]LogBlueprintUserMessages: [Enemy1_C_20] You have damaged me good sir
+[2020.01.10-00.37.37:963][340]LogBlueprintUserMessages: [Enemy1_C_22] You have damaged me good sir
+[2020.01.10-00.37.38:889][451]LogBlueprintUserMessages: [Enemy3_C_0] You have damaged me good sir
+[2020.01.10-00.37.39:157][483]LogBlueprintUserMessages: [Enemy2_C_22] You have damaged me good sir
+[2020.01.10-00.37.40:109][596]LogBlueprintUserMessages: [Enemy2_C_20] You have damaged me good sir
+[2020.01.10-00.37.41:500][763]LogBlueprintUserMessages: [Enemy3_C_1] You have damaged me good sir
+[2020.01.10-00.37.44:911][172]LogNet: Browse: /Game/ThirdPersonBP/Maps/MainMenu
+[2020.01.10-00.37.44:911][172]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/MainMenu
+[2020.01.10-00.37.44:949][172]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.10-00.37.44:949][172]LogLoad: Game class is 'MainMenuGamemode_C'
+[2020.01.10-00.37.44:950][172]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.01.09-16.37.44
+[2020.01.10-00.37.44:950][172]LogWorld: Bringing up level for play took: 0.000418
+[2020.01.10-00.37.44:950][172]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.10-00.37.44:951][172]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.10-00.37.44:951][172]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.10-00.37.44:951][172]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.10-00.37.44:952][172]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.10-00.37.44:952][172]LogLoad: Took 0.040736 seconds to LoadMap(/Game/ThirdPersonBP/Maps/MainMenu)
+[2020.01.10-00.37.46:877][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-00.37.46:977][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-00.37.46:977][413]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.37.47:005][413]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.10-00.37.47:005][413]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.37.47:030][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-00.37.47:083][415]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.01.10-00.38.04:238][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-00.38.46:919][479]BlueprintLog: New page: Compile TouchHUD
+[2020.01.10-00.38.47:575][536]LogSavePackage: Moving '../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/TouchHUD380B644B4F41761A913AE69EC7DC3959.tmp' to '../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Content/ThirdPersonBP/Blueprints/UserInterface/TouchHUD.uasset'
+[2020.01.10-00.39.02:112][262]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.10-00.39.02:127][262]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.39.02:127][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.10-00.39.02:127][262]PIE: New page: PIE session: Level01 (Jan 9, 2020, 8:39:02 AM)
+[2020.01.10-00.39.02:128][262]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01
+[2020.01.10-00.39.02:143][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015646s)
+[2020.01.10-00.39.02:144][262]LogAIModule: Creating AISystem for world Level01
+[2020.01.10-00.39.02:144][262]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2020.01.10-00.39.02:144][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Level01.Level01 to /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01.Level01 (0.016560s)
+[2020.01.10-00.39.02:194][262]LogInit: XAudio2 using 'LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.10-00.39.02:202][262]LogInit: FAudioDevice initialized.
+[2020.01.10-00.39.02:230][262]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.10-00.39.02:230][262]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2020.01.09-16.39.02
+[2020.01.10-00.39.02:231][262]LogWorld: Bringing up level for play took: 0.001064
+[2020.01.10-00.39.02:245][262]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Level01 -0.687
+[2020.01.10-00.39.02:245][262]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.39.05:738][679]LogBlueprintUserMessages: [Enemy1_C_1] You have damaged me good sir
+[2020.01.10-00.39.06:463][766]LogBlueprintUserMessages: [Enemy2_C_0] You have damaged me good sir
+[2020.01.10-00.39.07:922][941]LogBlueprintUserMessages: [Enemy1_C_0] You have damaged me good sir
+[2020.01.10-00.39.08:289][985]LogBlueprintUserMessages: [Enemy2_C_2] You have damaged me good sir
+[2020.01.10-00.39.09:164][ 90]LogBlueprintUserMessages: [Enemy1_C_2] You have damaged me good sir
+[2020.01.10-00.39.09:522][133]LogBlueprintUserMessages: [Enemy2_C_1] You have damaged me good sir
+[2020.01.10-00.39.12:190][453]LogBlueprintUserMessages: [Enemy2_C_3] You have damaged me good sir
+[2020.01.10-00.39.12:190][453]LogBlueprintUserMessages: [Enemy2_C_4] You have damaged me good sir
+[2020.01.10-00.39.15:499][850]LogBlueprintUserMessages: [Enemy1_C_4] You have damaged me good sir
+[2020.01.10-00.39.16:840][ 11]LogBlueprintUserMessages: [Enemy2_C_6] You have damaged me good sir
+[2020.01.10-00.39.18:016][152]LogBlueprintUserMessages: [Enemy1_C_6] You have damaged me good sir
+[2020.01.10-00.39.19:940][383]LogBlueprintUserMessages: [Enemy2_C_5] You have damaged me good sir
+[2020.01.10-00.39.20:591][461]LogBlueprintUserMessages: [Enemy1_C_8] You have damaged me good sir
+[2020.01.10-00.39.22:242][659]LogBlueprintUserMessages: [Enemy2_C_8] You have damaged me good sir
+[2020.01.10-00.39.23:775][843]LogBlueprintUserMessages: [Enemy2_C_7] You have damaged me good sir
+[2020.01.10-00.39.24:575][939]LogBlueprintUserMessages: [Enemy1_C_11] You have damaged me good sir
+[2020.01.10-00.39.25:217][ 16]LogBlueprintUserMessages: [Enemy2_C_9] You have damaged me good sir
+[2020.01.10-00.39.26:350][152]LogBlueprintUserMessages: [Enemy1_C_9] You have damaged me good sir
+[2020.01.10-00.39.28:634][426]LogBlueprintUserMessages: [Enemy2_C_10] You have damaged me good sir
+[2020.01.10-00.39.29:651][548]LogBlueprintUserMessages: [Enemy2_C_11] You have damaged me good sir
+[2020.01.10-00.39.30:930][699]LogBlueprintUserMessages: [Enemy1_C_10] You have damaged me good sir
+[2020.01.10-00.39.31:897][815]LogBlueprintUserMessages: [Enemy2_C_12] You have damaged me good sir
+[2020.01.10-00.39.32:930][939]LogBlueprintUserMessages: [Enemy1_C_13] You have damaged me good sir
+[2020.01.10-00.39.33:864][ 51]LogBlueprintUserMessages: [Enemy1_C_12] You have damaged me good sir
+[2020.01.10-00.39.35:164][207]LogBlueprintUserMessages: [Enemy2_C_13] You have damaged me good sir
+[2020.01.10-00.39.36:622][382]LogBlueprintUserMessages: [Enemy2_C_15] You have damaged me good sir
+[2020.01.10-00.39.36:772][400]LogBlueprintUserMessages: [Enemy1_C_14] You have damaged me good sir
+[2020.01.10-00.39.39:856][770]LogNet: Browse: /Game/ThirdPersonBP/Maps/MainMenu
+[2020.01.10-00.39.39:857][770]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/MainMenu
+[2020.01.10-00.39.39:889][770]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.10-00.39.39:889][770]LogLoad: Game class is 'MainMenuGamemode_C'
+[2020.01.10-00.39.39:891][770]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.01.09-16.39.39
+[2020.01.10-00.39.39:891][770]LogWorld: Bringing up level for play took: 0.000584
+[2020.01.10-00.39.39:891][770]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.01.10-00.39.39:891][770]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.10-00.39.39:891][770]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.01.10-00.39.39:892][770]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.01.10-00.39.39:892][770]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.01.10-00.39.39:892][770]LogLoad: Took 0.035677 seconds to LoadMap(/Game/ThirdPersonBP/Maps/MainMenu)
+[2020.01.10-00.39.40:484][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.10-00.39.40:559][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-00.39.40:559][850]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.39.40:593][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.10-00.39.40:593][850]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01' with GeneratedClass '/Game/ThirdPersonBP/Maps/Level01.Level01_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Level01.Level01:PersistentLevel.Level01'
+[2020.01.10-00.39.40:620][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.10-00.39.40:662][853]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.01.10-00.39.47:808][704]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/UserInterface/Death.Death
+[2020.01.10-00.41.32:005][530]BlueprintLog: New page: Compile Death
+[2020.01.10-00.41.32:580][583]LogSavePackage: Moving '../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Saved/DeathBCE28BCD4D29FF4A5EA0B1B30B304DF6.tmp' to '../../../../../../Users/jsaem/Documents/GitHub/SavingPlanet/Jesus-Andres-PlanetX/SavingPlanet/Content/ThirdPersonBP/Blueprints/UserInterface/Death.uasset'
+[2020.01.10-00.44.20:280][635]LogSlate: Window 'SavingPlanet - Unreal Editor' being destroyed
+[2020.01.10-00.44.20:453][636]Cmd: QUIT_EDITOR
+[2020.01.10-00.44.20:857][636]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.01.10-00.44.20:870][636]LogExit: Preparing to exit.
+[2020.01.10-00.44.21:078][636]LogExit: Editor shut down
+[2020.01.10-00.44.21:078][636]LogExit: Transaction tracking system shut down
+[2020.01.10-00.44.21:367][636]LogExit: Object subsystem successfully closed.
+[2020.01.10-00.44.21:394][636]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.01.10-00.44.21:404][636]LogD3D11RHI: Shutdown
+[2020.01.10-00.44.21:404][636]LogD3D11RHI: CleanupD3DDevice
+[2020.01.10-00.44.21:411][636]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.01.10-00.44.21:431][636]LogModuleManager: Shutting down and abandoning module SequencerWidgets (630)
+[2020.01.10-00.44.21:431][636]LogModuleManager: Shutting down and abandoning module BlueprintGraph (628)
+[2020.01.10-00.44.21:431][636]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (626)
+[2020.01.10-00.44.21:431][636]LogModuleManager: Shutting down and abandoning module Voice (624)
+[2020.01.10-00.44.21:431][636]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2020.01.10-00.44.21:431][636]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2020.01.10-00.44.21:431][636]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2020.01.10-00.44.21:433][636]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2020.01.10-00.44.21:433][636]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2020.01.10-00.44.21:433][636]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2020.01.10-00.44.21:433][636]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2020.01.10-00.44.21:433][636]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2020.01.10-00.44.21:433][636]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2020.01.10-00.44.21:433][636]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2020.01.10-00.44.21:433][636]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2020.01.10-00.44.21:433][636]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2020.01.10-00.44.21:433][636]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2020.01.10-00.44.21:433][636]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2020.01.10-00.44.21:433][636]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2020.01.10-00.44.21:433][636]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2020.01.10-00.44.21:433][636]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2020.01.10-00.44.21:433][636]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2020.01.10-00.44.21:433][636]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2020.01.10-00.44.21:434][636]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2020.01.10-00.44.21:805][636]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2020.01.10-00.44.21:805][636]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2020.01.10-00.44.21:805][636]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2020.01.10-00.44.21:805][636]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2020.01.10-00.44.21:805][636]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2020.01.10-00.44.21:805][636]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2020.01.10-00.44.21:805][636]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2020.01.10-00.44.21:805][636]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2020.01.10-00.44.21:806][636]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2020.01.10-00.44.21:806][636]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2020.01.10-00.44.21:806][636]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2020.01.10-00.44.21:806][636]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2020.01.10-00.44.21:806][636]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2020.01.10-00.44.21:806][636]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2020.01.10-00.44.21:806][636]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2020.01.10-00.44.21:806][636]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2020.01.10-00.44.21:807][636]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2020.01.10-00.44.21:807][636]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2020.01.10-00.44.21:807][636]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2020.01.10-00.44.21:807][636]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2020.01.10-00.44.21:807][636]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2020.01.10-00.44.21:807][636]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2020.01.10-00.44.21:807][636]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2020.01.10-00.44.21:861][636]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2020.01.10-00.44.21:861][636]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2020.01.10-00.44.21:861][636]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2020.01.10-00.44.21:861][636]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2020.01.10-00.44.21:861][636]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2020.01.10-00.44.21:861][636]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2020.01.10-00.44.21:861][636]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2020.01.10-00.44.21:861][636]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2020.01.10-00.44.21:861][636]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2020.01.10-00.44.21:861][636]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2020.01.10-00.44.21:865][636]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2020.01.10-00.44.21:865][636]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2020.01.10-00.44.21:865][636]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2020.01.10-00.44.21:865][636]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2020.01.10-00.44.21:865][636]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2020.01.10-00.44.21:865][636]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2020.01.10-00.44.21:865][636]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2020.01.10-00.44.21:865][636]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2020.01.10-00.44.21:865][636]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2020.01.10-00.44.21:865][636]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2020.01.10-00.44.21:865][636]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2020.01.10-00.44.21:865][636]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2020.01.10-00.44.21:865][636]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2020.01.10-00.44.21:865][636]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2020.01.10-00.44.21:865][636]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2020.01.10-00.44.21:866][636]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2020.01.10-00.44.21:866][636]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2020.01.10-00.44.21:866][636]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2020.01.10-00.44.21:866][636]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2020.01.10-00.44.21:866][636]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2020.01.10-00.44.21:866][636]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2020.01.10-00.44.21:866][636]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2020.01.10-00.44.21:869][636]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2020.01.10-00.44.21:968][636]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2020.01.10-00.44.21:968][636]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2020.01.10-00.44.21:968][636]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2020.01.10-00.44.21:968][636]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2020.01.10-00.44.21:968][636]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2020.01.10-00.44.21:968][636]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2020.01.10-00.44.21:968][636]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2020.01.10-00.44.21:968][636]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2020.01.10-00.44.21:968][636]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2020.01.10-00.44.21:968][636]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2020.01.10-00.44.21:968][636]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2020.01.10-00.44.21:968][636]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2020.01.10-00.44.21:968][636]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2020.01.10-00.44.21:968][636]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2020.01.10-00.44.21:969][636]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2020.01.10-00.44.21:969][636]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2020.01.10-00.44.21:969][636]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2020.01.10-00.44.21:971][636]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2020.01.10-00.44.21:971][636]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2020.01.10-00.44.21:971][636]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2020.01.10-00.44.21:971][636]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2020.01.10-00.44.21:971][636]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2020.01.10-00.44.21:971][636]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2020.01.10-00.44.21:971][636]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2020.01.10-00.44.21:971][636]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2020.01.10-00.44.21:971][636]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2020.01.10-00.44.21:971][636]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2020.01.10-00.44.21:971][636]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2020.01.10-00.44.21:971][636]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2020.01.10-00.44.21:971][636]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2020.01.10-00.44.21:971][636]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2020.01.10-00.44.21:971][636]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2020.01.10-00.44.21:971][636]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2020.01.10-00.44.21:971][636]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2020.01.10-00.44.21:971][636]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2020.01.10-00.44.21:971][636]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.01.10-00.44.21:971][636]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.01.10-00.44.21:971][636]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.01.10-00.44.21:972][636]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.01.10-00.44.21:972][636]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.01.10-00.44.21:972][636]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.01.10-00.44.21:972][636]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.01.10-00.44.21:972][636]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.01.10-00.44.21:972][636]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.01.10-00.44.21:972][636]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.01.10-00.44.21:972][636]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2020.01.10-00.44.21:972][636]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2020.01.10-00.44.21:972][636]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2020.01.10-00.44.21:972][636]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2020.01.10-00.44.21:972][636]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2020.01.10-00.44.21:972][636]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2020.01.10-00.44.21:972][636]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2020.01.10-00.44.21:972][636]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2020.01.10-00.44.21:972][636]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2020.01.10-00.44.21:972][636]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2020.01.10-00.44.21:972][636]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2020.01.10-00.44.21:972][636]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.01.10-00.44.21:972][636]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.01.10-00.44.21:972][636]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.01.10-00.44.22:073][636]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.01.10-00.44.22:174][636]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2020.01.10-00.44.22:174][636]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2020.01.10-00.44.22:174][636]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2020.01.10-00.44.22:174][636]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2020.01.10-00.44.22:174][636]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2020.01.10-00.44.22:174][636]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2020.01.10-00.44.22:174][636]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2020.01.10-00.44.22:176][636]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2020.01.10-00.44.22:176][636]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2020.01.10-00.44.22:177][636]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2020.01.10-00.44.22:177][636]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2020.01.10-00.44.22:177][636]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2020.01.10-00.44.22:182][636]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2020.01.10-00.44.22:182][636]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.01.10-00.44.22:182][636]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2020.01.10-00.44.22:182][636]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2020.01.10-00.44.22:182][636]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2020.01.10-00.44.22:182][636]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2020.01.10-00.44.22:182][636]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2020.01.10-00.44.22:185][636]LogModuleManager: Shutting down and abandoning module Media (241)
+[2020.01.10-00.44.22:192][636]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2020.01.10-00.44.22:192][636]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2020.01.10-00.44.22:192][636]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2020.01.10-00.44.22:192][636]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2020.01.10-00.44.22:192][636]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2020.01.10-00.44.22:192][636]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2020.01.10-00.44.22:192][636]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2020.01.10-00.44.22:192][636]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2020.01.10-00.44.22:192][636]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2020.01.10-00.44.22:192][636]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2020.01.10-00.44.22:192][636]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2020.01.10-00.44.22:192][636]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2020.01.10-00.44.22:192][636]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2020.01.10-00.44.22:192][636]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2020.01.10-00.44.22:192][636]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2020.01.10-00.44.22:193][636]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2020.01.10-00.44.22:193][636]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2020.01.10-00.44.22:193][636]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2020.01.10-00.44.22:193][636]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2020.01.10-00.44.22:193][636]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2020.01.10-00.44.22:197][636]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.01.10-00.44.22:197][636]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.01.10-00.44.22:197][636]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.01.10-00.44.22:197][636]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.01.10-00.44.22:197][636]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.01.10-00.44.22:197][636]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.01.10-00.44.22:197][636]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2020.01.10-00.44.22:197][636]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2020.01.10-00.44.22:197][636]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2020.01.10-00.44.22:197][636]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2020.01.10-00.44.22:197][636]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2020.01.10-00.44.22:197][636]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2020.01.10-00.44.22:197][636]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2020.01.10-00.44.22:198][636]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2020.01.10-00.44.22:198][636]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2020.01.10-00.44.22:198][636]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2020.01.10-00.44.22:198][636]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2020.01.10-00.44.22:198][636]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2020.01.10-00.44.22:268][636]LogDerivedDataCache: Shutdown
+[2020.01.10-00.44.22:268][636]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2020.01.10-00.44.22:268][636]LogXGEController: Cleaning working directory: C:/Users/jsaem/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.01.10-00.44.22:270][636]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2020.01.10-00.44.22:270][636]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2020.01.10-00.44.22:270][636]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2020.01.10-00.44.22:271][636]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2020.01.10-00.44.22:271][636]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2020.01.10-00.44.22:271][636]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2020.01.10-00.44.22:271][636]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2020.01.10-00.44.22:271][636]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2020.01.10-00.44.22:271][636]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2020.01.10-00.44.22:271][636]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2020.01.10-00.44.22:271][636]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2020.01.10-00.44.22:271][636]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2020.01.10-00.44.22:271][636]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2020.01.10-00.44.22:271][636]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2020.01.10-00.44.22:271][636]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2020.01.10-00.44.22:271][636]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2020.01.10-00.44.22:271][636]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2020.01.10-00.44.22:287][636]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.01.10-00.44.22:287][636]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.01.10-00.44.22:287][636]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2020.01.10-00.44.22:287][636]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2020.01.10-00.44.22:287][636]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2020.01.10-00.44.22:292][636]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2020.01.10-00.44.22:292][636]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2020.01.10-00.44.22:296][636]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2020.01.10-00.44.22:296][636]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2020.01.10-00.44.22:324][636]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2020.01.10-00.44.22:324][636]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2020.01.10-00.44.22:324][636]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2020.01.10-00.44.22:324][636]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2020.01.10-00.44.22:324][636]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2020.01.10-00.44.22:324][636]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2020.01.10-00.44.22:324][636]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2020.01.10-00.44.22:324][636]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2020.01.10-00.44.22:324][636]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2020.01.10-00.44.22:324][636]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2020.01.10-00.44.22:324][636]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2020.01.10-00.44.22:324][636]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2020.01.10-00.44.22:324][636]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2020.01.10-00.44.22:324][636]LogHMD: Freeing OpenVRDLLHandle.
+[2020.01.10-00.44.22:324][636]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2020.01.10-00.44.22:324][636]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2020.01.10-00.44.22:324][636]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2020.01.10-00.44.22:324][636]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2020.01.10-00.44.22:324][636]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2020.01.10-00.44.22:325][636]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2020.01.10-00.44.22:325][636]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2020.01.10-00.44.22:337][636]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2020.01.10-00.44.22:337][636]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.01.10-00.44.22:337][636]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B58C549F7-4A56-335D-8D86-6EBCC50695C8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=9b095e8e4a88390c73a7b1bb246dac72%7Cd7314a6cb5c4410994ec964b4763ca8d%7C872a1567-8e0d-4610-9b98-30a2b4db1f2b&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.01.10-00.44.22:347][636]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2020.01.10-00.44.22:348][636]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2020.01.10-00.44.22:348][636]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2020.01.10-00.44.22:348][636]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2020.01.10-00.44.22:348][636]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2020.01.10-00.44.22:348][636]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2020.01.10-00.44.22:348][636]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2020.01.10-00.44.22:348][636]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2020.01.10-00.44.22:348][636]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.01.10-00.44.22:348][636]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2020.01.10-00.44.22:348][636]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2020.01.10-00.44.22:349][636]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.01.10-00.44.22:349][636]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.01.10-00.44.22:349][636]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.01.10-00.44.22:349][636]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.01.10-00.44.22:349][636]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.01.10-00.44.22:349][636]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.01.10-00.44.22:349][636]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.01.10-00.44.22:349][636]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.01.10-00.44.22:349][636]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.01.10-00.44.22:349][636]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.01.10-00.44.22:350][636]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.01.10-00.44.22:350][636]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.01.10-00.44.22:350][636]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.01.10-00.44.22:350][636]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.01.10-00.44.22:350][636]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.01.10-00.44.22:350][636]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.01.10-00.44.22:350][636]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.01.10-00.44.22:350][636]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.01.10-00.44.22:363][636]LogExit: Exiting.
+[2020.01.10-00.44.22:371][636]Log file closed, 01/09/20 16:44:22
